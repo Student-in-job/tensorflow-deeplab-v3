@@ -11,7 +11,7 @@ import os
 import numpy as np
 import PIL.Image
 
-import tensorflow.compat.v1 as tf tf
+import tensorflow.compat.v1 as tf
 
 flags = tf.app.flags
 tf.flags.DEFINE_string('input_pattern', '',
