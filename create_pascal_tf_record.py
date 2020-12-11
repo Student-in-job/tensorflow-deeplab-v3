@@ -10,7 +10,7 @@ import os
 import sys
 
 import PIL.Image
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 
 from utils import dataset_util
 

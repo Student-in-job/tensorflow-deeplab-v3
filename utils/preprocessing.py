@@ -2,7 +2,7 @@
 
 from PIL import Image
 import numpy as np
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 
 _R_MEAN = 123.68
 _G_MEAN = 116.78

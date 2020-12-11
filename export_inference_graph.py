@@ -8,7 +8,7 @@ import argparse
 import os
 import sys
 
-import tensorflow.compat.v1 as tf
+import tensorflow as tf
 
 import deeplab_model
 from utils import preprocessing
